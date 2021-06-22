@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">VaccineCentre</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="enter">Enter :</string>
+    <string name="pincode">Pincode</string>
+    <string name="get">Get</string>
+    <string name="hospital_name">Hospital Name</string>
+    <string name="vaccine">Vaccine</string>
+    <string name="min_age">Min Age</string>
+    <string name="address">Address</string>
+    <string name="available_capacity">Available total</string>
+    <string name="available_capacity_dose1">Available dose1</string>
+    <string name="available_capacity_dose2">Available dose2</string>
+    <string name="fee_type">Fee type</string>
+    <string name="fee">Fee</string>
+    <string name="slots">Slots</string>
+    <string name="avail">Avail.</string>
+    <string name="empty_message">No Hospitals vaccinate right now at your pincode</string>
+    <string name="check_internet">Check Internet Connectivity</string>
+
+</resources>
